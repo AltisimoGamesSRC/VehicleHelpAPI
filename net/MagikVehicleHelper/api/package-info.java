@@ -3,7 +3,6 @@ package net.MagikVehicleHelper.api;
 
 import cpw.mods.fml.common.API;
 
-/**
  * This API is Made by Magik, If you did not get this without my written permission, please remove this immediantely, as this is
  * to only be used if I  Have Given Permission to do so. Chances Are If you do have this you know me so you can go ahead and
  * delete this if you would like. I do not intend to release this to the republic and is for friends only.
@@ -20,4 +19,4 @@ import cpw.mods.fml.common.API;
  * 
  * 
  * @author Magik
- */
+ 
